@@ -5,8 +5,7 @@ SDG_TARGET: >-
   currently measured as people living on less than $1.25 a day
 SDG_INDICATOR: >-
   Indicator 1.1.1: Proportion of the population living below the
-  international poverty line by sex, age, employment status and geographic
-  location (urban/rural)
+  international poverty line
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
